@@ -1,0 +1,19 @@
+{
+    "name": "My first PWA",
+    "short_name": "my 1st PWA",
+    "id": "my-first-pwa",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "It's my first progressive web application",
+    "icons": [
+        {
+            "src": "512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+
+    "theme_color": "#80B40D",
+    "background_color": "#80B40D",
+    "lang": "zh-CN"
+}

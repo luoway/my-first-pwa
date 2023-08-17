@@ -1,0 +1,46 @@
+{
+  "name": "my-first-pwa",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoway/my-first-pwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoway/my-first-pwa/issues"
+  },
+  "homepage": "https://github.com/luoway/my-first-pwa#readme",
+  "devDependencies": {
+    "@types/node": "^16.18.40",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "devcert": "^1.2.2",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "stylus": "^0.59.0",
+    "vue": "^3.3.4",
+    "workbox-window": "^7.0.0"
+  },
+  "engines": {
+    "node": ">= 16"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "bracketSameLine": true,
+    "bracketSpacing": true,
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 4,
+    "trailingComma": "all"
+  }
+}
